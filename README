@@ -1,0 +1,12 @@
+
+This is a LaTeX class for formatting a PhD dissertation in accordance with 
+the guidelines specified by the office of Graduate Studies at the 
+University of New Mexico, Albuquerque. 
+
+At present, the formatting guidelines are from Fall 2020, and a dissertation 
+using this class was accepted by Graduate Studies in November of 2020.
+
+See the \example directory for a simple example illustrating how to use 
+the various commands defined in the .cls file.
+
+
