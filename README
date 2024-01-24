@@ -9,4 +9,5 @@ using this class was accepted by Graduate Studies in November of 2020.
 See the \example directory for a simple example illustrating how to use 
 the various commands defined in the .cls file.
 
-
+Note: As far as I know there are no restrictions on the packages you can use. 
+For example, cleverref is OK.
